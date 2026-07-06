@@ -1,4 +1,5 @@
 # Customer-Analytics-Dashboard
+![Dashboard](images/dashboard.png)
 
 An interactive Business Intelligence dashboard built with Python to analyse customer behaviour, revenue performance, churn, and operational KPIs for a simulated global digital financial services company.
 
